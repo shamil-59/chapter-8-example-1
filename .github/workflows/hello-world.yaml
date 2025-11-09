@@ -31,4 +31,4 @@ jobs:
 
       # Runs our our "Hello world" shell script.
       - name: Runs the "Hello world" shell script
-        run: ./index.sh
+        run: ./index.py
